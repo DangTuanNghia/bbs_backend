@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app/application" />
+            <option value="$PROJECT_DIR$/app/domain" />
+            <option value="$PROJECT_DIR$/app/port" />
+            <option value="$PROJECT_DIR$/app/port/primary/webService" />
+            <option value="$PROJECT_DIR$/app/port/secondary/databaseMySQL" />
+            <option value="$PROJECT_DIR$/app/port/secondary/http" />
+            <option value="$PROJECT_DIR$/app/utility" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

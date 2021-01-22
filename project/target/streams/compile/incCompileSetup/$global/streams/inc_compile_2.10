@@ -1,0 +1,239 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+11 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$1.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$2.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$3.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$4.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$5.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$6.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$7.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$.class
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings.class
+binary dependencies:
+12 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> /Users/nghia_dt/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.8.7.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> /private/var/folders/dq/gkby5vrx4kn2lhqv465mpcxh0000gp/T/sbt-global-pluginstub/boot/scala-2.10.7/lib/scala-library.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /Users/nghia_dt/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.17.jar
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /private/var/folders/dq/gkby5vrx4kn2lhqv465mpcxh0000gp/T/sbt-global-pluginstub/boot/scala-2.10.7/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+11 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Dependencies
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Dependencies$
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$$anonfun$commonSettings$1
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$$anonfun$commonSettings$2
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$$anonfun$commonSettings$3
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$$anonfun$commonSettings$4
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$$anonfun$commonSettings$5
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$$anonfun$commonSettings$6
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings$$anonfun$commonSettings$7
+used names:
+106 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> %
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> %%
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> <init>
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> <repeated>
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> A
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Any
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> AnyRef
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Configuration
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Dependencies
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> GroupArtifactID
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> GroupID
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> ModuleID
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> ModuleIDConfigurable
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Nothing
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Object
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> PlayImport
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Predef
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Seq
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> String
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> Test
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> addedDependencies
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> apply
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> collection
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> configDependencyConstructor
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> defaultDependencies
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> ehcache
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> evolutions
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> guice
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> jdbc
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> moduleIDConfigurable
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> package
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> play
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> sbt
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> scala
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> specs2
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> toGroupID
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> ws
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> +=
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> /
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> :=
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> <init>
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> <refinement>
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> <repeated>
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> A
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Any
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> AnyRef
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Append
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Compile
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> ConfigKey
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Configuration
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Def
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> File
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Function0
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Function1
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Initialize
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> InitializeInstance
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> InputWrapper
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Int
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Keys
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> LinePosition
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> MacroValue
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> MavenRepository
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Nothing
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Object
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Predef
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> RepositoryName
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Resolver
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> RichFile
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> S
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Seq
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Sequence
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Setting
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> SettingKey
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Settings
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> SourcePosition
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> String
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> T
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Test
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> U
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> V
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> Value
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> _1
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> append1
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> appendSeq
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> apply
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> at
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> baseDirectory
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> collection
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> commonSettings
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> configurationToKey
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> in
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> macroValueI
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> map
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> package
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> pure
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> resolvers
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> resourceDirectory
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> richFile
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> sbt
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> scala
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> scalaSource
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> scalaVersion
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> set
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> toRepositoryName
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> value
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> wrapInit_☃☃
+product stamps:
+11 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$1.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$2.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$3.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$4.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$5.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$6.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$$anonfun$commonSettings$7.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings$.class -> lastModified(1611311792000)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/target/scala-2.10/sbt-0.13/classes/Settings.class -> lastModified(1611311792000)
+source stamps:
+2 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> hash(a7af195b10d412af34bc09cbd20ff83f02cd0971)
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> hash(0c91901a7e00c92f613aeb137c98e4999435fa0b)
+binary stamps:
+8 items
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.17.jar -> lastModified(1517428109000)
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.17.jar -> lastModified(1517428123000)
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.17.jar -> lastModified(1517428256000)
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.17.jar -> lastModified(1517428297000)
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.17.jar -> lastModified(1517428332000)
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.17.jar -> lastModified(1517428372000)
+/Users/nghia_dt/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.8.7.jar -> lastModified(1607945391000)
+/private/var/folders/dq/gkby5vrx4kn2lhqv465mpcxh0000gp/T/sbt-global-pluginstub/boot/scala-2.10.7/lib/scala-library.jar -> lastModified(1509739617000)
+class names:
+8 items
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.17.jar -> sbt.SourcePosition
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.17.jar -> sbt.RichFile
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.17.jar -> sbt.impl.RepositoryName
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.17.jar -> sbt.std.InitializeInstance$
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.17.jar -> sbt.Keys$
+/Users/nghia_dt/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.17.jar -> sbt.package$
+/Users/nghia_dt/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.8.7.jar -> play.sbt.PlayImport$
+/private/var/folders/dq/gkby5vrx4kn2lhqv465mpcxh0000gp/T/sbt-global-pluginstub/boot/scala-2.10.7/lib/scala-library.jar -> scala.Function1
+internal apis:
+2 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdk9huwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hweexhZHQABm5vdGlmeXNxAH4ADP/RR/t0AAR3YWl0c3EAfgAM1vJ7eHQADSRhc0luc3RhbmNlT2ZzcQB+AAymn6OjdAARYWRkZWREZXBlbmRlbmNpZXNzcQB+AAxht1eAdAAGZXF1YWxzc3EAfgAMSOrv43QADGFzSW5zdGFuY2VPZnNxAH4ADMaf5VV0AAxzeW5jaHJvbml6ZWRzcQB+AAwjAVqYdAAMRGVwZW5kZW5jaWVzc3EAfgAMt1IPSHQADSRpc0luc3RhbmNlT2ZzcQB+AAwsCxm0dAAJbm90aWZ5QWxsc3EAfgAMSZTyRnQADGlzSW5zdGFuY2VPZnNxAH4ADM0MQPN0ABNkZWZhdWx0RGVwZW5kZW5jaWVzc3EAfgAMC5cduXQAAj09c3EAfgAM/cFRVnQABWNsb25lc3EAfgAMKKdcRXQACHRvU3RyaW5nc3EAfgAMoaZ45XQAAiE9c3EAfgAMpuY5bXQACGdldENsYXNzc3EAfgAMxYLIxXQAAm5lc3EAfgAMqreWZ3QAAmVxc3EAfgAMyvfHF3QAAiMjc3EAfgAMf+wNBHQACGZpbmFsaXplc3EAfgAMKQSvNHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAddXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBac3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AX3NxAH4AWnVxAH4APgAAAABzcQB+AFp1cQB+AD4AAAAAc3EAfgBadXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBedAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB3dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4c3EAfgBrdAADQW55c3EAfgBvc3EAfgBydXEAfgB1AAAAAnNxAH4Ad3QABXNjYWxhcQB+AH51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdymqs7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTL1VzZXJzL25naGlhX2R0L0Rlc2t0b3AvQ1JVRC9iYnNfYmFja2VuZC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSnrxlbENQSrzS8CcvSD/g/As0JcQ==
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwq0qtgAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3fEMOnQABm5vdGlmeXNxAH4ADLpcIXp0AAhTZXR0aW5nc3NxAH4ADAR8sIl0AAR3YWl0c3EAfgAMjbmfqnQADSRhc0luc3RhbmNlT2ZzcQB+AAwURT9jdAAGZXF1YWxzc3EAfgAMXRZ4x3QADGFzSW5zdGFuY2VPZnNxAH4ADDOc2K10AAxzeW5jaHJvbml6ZWRzcQB+AAwq6ZdXdAAOY29tbW9uU2V0dGluZ3NzcQB+AAyjjLJ/dAANJGlzSW5zdGFuY2VPZnNxAH4ADPerymt0AAlub3RpZnlBbGxzcQB+AAwpuM4PdAAMaXNJbnN0YW5jZU9mc3EAfgAMA0SkoHQAAj09c3EAfgAM09jp8HQABWNsb25lc3EAfgAMXemRvnQACHRvU3RyaW5nc3EAfgAMB/tcLXQAAiE9c3EAfgAM73VLyXQACGdldENsYXNzc3EAfgAM3XEnInQAAm5lc3EAfgAMOSlSEXQAAmVxc3EAfgAM2XegwXQAAiMjc3EAfgAMB4any3QACGZpbmFsaXplc3EAfgAMtcHPv3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB1dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB2c3EAfgBpdAADQW55c3EAfgBtc3EAfgBwdXEAfgBzAAAAAnNxAH4AdXQABXNjYWxhcQB+AHx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdymqs7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTL1VzZXJzL25naGlhX2R0L0Rlc2t0b3AvQ1JVRC9iYnNfYmFja2VuZC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQMkZAafgDJL2E66xN8mOSZlDX6Cw==
+external apis:
+0 items
+source infos:
+2 items
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Dependencies.scala -> 
+AAAAAAAAAAA=
+/Users/nghia_dt/Desktop/CRUD/bbs_backend/project/Settings.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdymqs7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9uZ2hpYV9kdC9EZXNrdG9wL0NSVUQvYmJzX2JhY2tlbmQvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==

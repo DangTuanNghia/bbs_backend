@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application.iml" filepath="$PROJECT_DIR$/.idea/modules/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbs_backend.iml" filepath="$PROJECT_DIR$/.idea/modules/bbs_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbs_backend-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bbs_backend-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/port.iml" filepath="$PROJECT_DIR$/.idea/modules/port.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portDatabase.iml" filepath="$PROJECT_DIR$/.idea/modules/portDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portHttp.iml" filepath="$PROJECT_DIR$/.idea/modules/portHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portWebService.iml" filepath="$PROJECT_DIR$/.idea/modules/portWebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utility.iml" filepath="$PROJECT_DIR$/.idea/modules/utility.iml" />
+    </modules>
+  </component>
+</project>
